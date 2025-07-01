@@ -20,8 +20,8 @@ function Dashboard() {
         </div>
 
         <div className="bg-white shadow rounded-xl p-4">
-          <h2 className="text-sm text-gray-500">Top Είδος</h2>
-          <p className="text-lg font-medium text-gray-800">Πόρτα Αλουμινίου</p>
+          <h2 className="text-sm text-gray-500">Top Είδοι</h2>
+          <p className="text-lg font-medium text-gray-800">Πόρτα </p>
         </div>
       </div>
     </div>
